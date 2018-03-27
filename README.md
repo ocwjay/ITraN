@@ -1,4 +1,4 @@
-![Logo](ITraN/img/PNGs/logoBlack.png?raw=true "ITraN Logo")
+![Logo](img/PNGs/logoBlack.png?raw=true "ITraN Logo")
 # ITraN
 The navigation bar to end all navigation bars.
 <br />
